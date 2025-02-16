@@ -18,5 +18,7 @@ modules:
     system: {}
     user: {}
 
+  - from-file: gaming/steam.yml
+
   # Setting up proper signing of images
   - type: signing # this sets up the proper policy & signing files for signed images to work fully

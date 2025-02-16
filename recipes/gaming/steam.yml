@@ -1,0 +1,6 @@
+type: default-flatpaks
+notify: true
+system:
+  install:
+    - com.valvesoftware.Steam
+    - com.valvesoftware.Steam.CompatibilityTool.Proton-GE
